@@ -3,6 +3,7 @@ average programming enjoyer
 ## Values:
 - Freedom of Information
 - Anti-censorship
+## Interests:
 - Web development
 - Ethical hacking
 - Writing about computers
