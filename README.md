@@ -20,8 +20,8 @@ program enjoyer
 - Write or contribute to an ethical and open source ecosystem of tools and products that will fundamentally replace Google and Microsoft.
 
 ## Short term goals
-- [] Finish cs50
-- [] Master Webdev and Rust (maybe the same thing..!)
-- [] Get a good night's sleep
-- [] Learn Haskell
-- [] Learn to read and comprehend code better
+- [ ] Finish cs50
+- [ ] Master Webdev and Rust (maybe the same thing..!)
+- [ ] Get a good night's sleep
+- [ ] Learn Haskell
+- [ ] Learn to read and comprehend code better
