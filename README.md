@@ -1,5 +1,5 @@
-# I am Kurgon
-average programming enjoyer
+# kurgon
+program enjoyer
 ## Values:
 - Freedom of Information
 - Anti-censorship
