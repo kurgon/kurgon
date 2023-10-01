@@ -1,5 +1,5 @@
 # kurgon
-program enjoyer
+Programmer and Cybersecurity enthusiast
 ## Values:
 - Freedom of Information
 - Anti-censorship
