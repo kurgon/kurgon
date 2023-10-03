@@ -1,7 +1,7 @@
 # kurgon
 Programmer and Cybersecurity enthusiast
 
-[@kgn]("https://sr.ht/~kgn/") on SourceHut
+[@kgn](https://sr.ht/~kgn/) - Sourcehut
 ## Values:
 - Freedom of Information
 - Anti-censorship
